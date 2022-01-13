@@ -1,7 +1,7 @@
 # Setup
 title:               UL
 tagline:             'Web Back-end 개발자를 향한 여정'
-description:         '블로그 이사 중입니다. <a href="https://jekyllrb.com" target="_blank">이전 블로그</a>'
+description:         '블로그 이사 중입니다. <a href="https://stella-ul.tistory.com" target="_blank">이전 블로그</a>'
 url:                 'https://ulzcq.github.io'
 baseurl:             ''
 paginate:            5
